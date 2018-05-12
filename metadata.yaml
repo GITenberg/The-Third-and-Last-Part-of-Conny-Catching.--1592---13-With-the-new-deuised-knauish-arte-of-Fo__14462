@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '5531'
     url: http://www.gutenberg.org/2009/agents/5531
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14462#The-Third-and-Last-Part-of-Conny-Catching.--1592---13-With-the-new-deuised-knauish-arte-of-Fo_
 gutenberg_issued: '2004-12-25'
 gutenberg_type: Text
 identifiers:
